@@ -1,0 +1,25 @@
+body {
+    background-color: #efeee7;
+    font-style: Georgia,"Times New Roman",Times,serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333333;
+    color: #eee;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+h1 {
+     font-size: 28px;
+}
+
+#main-bio {
+     float: right;
+     padding: 20px;
+     width: 70%;
+}
